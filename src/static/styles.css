@@ -77,14 +77,14 @@ section h3 {
 .participants-section {
   margin-top: 10px;
   padding: 10px;
-  background: #eef3fa;
+  background-color: #eef3fb;
   border-radius: 4px;
   border: 1px solid #c5cae9;
 }
 .participants-section strong {
   color: #3949ab;
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: 5px;
 }
 .participants-list {
   list-style-type: disc;
@@ -93,13 +93,12 @@ section h3 {
   color: #333;
 }
 .participants-section.empty {
-  background: #f9f9f9;
-  color: #888;
-  border-style: dashed;
+  background-color: #f9fbe7;
+  border: 1px dashed #cfd8dc;
 }
 .no-participants {
+  color: #b0bec5;
   font-style: italic;
-  color: #888;
 }
 
 .form-group {

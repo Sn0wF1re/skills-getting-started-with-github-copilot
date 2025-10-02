@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
           participantsHTML = `
             <div class="participants-section empty">
               <strong>Participants:</strong>
-              <span class="no-participants">No one signed up yet.</span>
+              <span class="no-participants">No one has signed up yet.</span>
             </div>
           `;
         }
